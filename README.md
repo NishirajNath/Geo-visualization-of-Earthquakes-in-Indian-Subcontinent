@@ -7,10 +7,3 @@ Based on the past seismic history, Bureau of Indian Standards grouped the countr
 ![img](https://upload.wikimedia.org/wikipedia/commons/3/3e/Earthquake_hazard_zoning_map_of_India.gif)
 
 In this repository we will try to visualize the data provide by the National Center for Seismology Ministry of Earth Sciences, Government of India. And try to Analyze various aspects from the given data.
-
-here are few of the sample output
-
- <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200930022930805.png" alt="image-20200930022930805" style="zoom:50%;" /> <img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20200930023054212.png" alt="image-20200930023054212" style="zoom:50%;" />
-
-1. Display all locations on the map
-2. Heat-map
