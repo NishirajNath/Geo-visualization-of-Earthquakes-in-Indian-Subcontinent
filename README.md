@@ -4,6 +4,15 @@ Earthquakes occur along fault lines, cracks in Earth's crust where tectonic plat
 
 Based on the past seismic history, Bureau of Indian Standards grouped the country into four seismic zones namely Zone-II, Zone-III, Zone-IV and Zone-V. Of all these four zones, Zone-V is the most seismic active region whereas Zone-II is the least.
 
+
 ![img](https://upload.wikimedia.org/wikipedia/commons/3/3e/Earthquake_hazard_zoning_map_of_India.gif)
 
-In this repository we will try to visualize the data provide by the National Center for Seismology Ministry of Earth Sciences, Government of India. And try to Analyze various aspects from the given data.
+Using the data base provided, a scattered plot has been plotted.
+
+![img1](scattered_plot.png)
+
+scattered plot is usefull in plotting all the events and classifying different them according to their magnitude etc
+For better analysis, I am using heat map Heatmap and comparing the output to the zones defined by the  Bureau of Indian Standards.
+
+![img1](HeatMap.PNG)
+
